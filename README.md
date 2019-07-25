@@ -1,5 +1,14 @@
 # Kafka 分享实验代码
 
+## Kafka 安装与启动
+
+- [Quickstart](http://kafka.apache.org/quickstart)
+
+## python client
+
+- kafka-python
+- [其他可选项](https://cwiki.apache.org/confluence/display/KAFKA/Clients#Clients-Python)
+
 ## 实验 1
 
 - 目的：尝试启动 `Producer` 和 `Consumer`，接触 `Topic`
